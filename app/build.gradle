@@ -82,4 +82,8 @@ dependencies {
     //Glide - Works with download and caches of images
     implementation "com.github.bumptech.glide:glide:$version_glide"
 
+    //RecyclerView
+    implementation "androidx.recyclerview:recyclerview:$version_recyclerview"
+
+
 }
